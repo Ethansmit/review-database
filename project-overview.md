@@ -5,7 +5,7 @@ and that many of the goals outlined here are before the actual implementation of
 a simple project outline before implementation. (EDIT THIS LATER)
 
 ## Defining The Problem
-**Project Idea:**
+### Project Idea:
 
 There are various ways to store your reviews about different medias. If I watch a movie, I can log it in my LetterBox. 
 If I listen to a new album, I can log in my RateYourMusic account. If I eat at a new restaraunt, I can write a Google
@@ -18,7 +18,7 @@ hobbyists to catalogue, write down reviews or notes, and do all of this efficent
 This project is mostly for myself, or whoever wants to utilize it. This application will be an offline project, so
 the reviews and catalogued medias will not be public, and for personal observation.
 
-**Problem:**
+### Problem:
 
 The specific problem I want to tackle is to ***centralize all my reviews into a single application***. This application 
 will tackle the challenge of centralizing these reviews and make the process of reviewing quick and easy. I can 
@@ -26,14 +26,14 @@ cataloguea variety of data about the media and quickly compare information. I wa
 tacklingfirst and foremost is not the issue of making my reviews public, this is only a side-effect from the original 
 method. Such a feature would be a side objective to the main problem.
 
-**Expected Outcomes:**
+### Expected Outcomes:
 
 The main outcome of the project is to have a simple application that will mainly do two things. Provide an easy means of 
 logging reviews about any given media and allow me to manipulate my reviews to see specific things I want, like what movies 
 I saw between date 1 and date 2, or what highest rated video games are. These will be the main functionality from the 
 application, but possibly other ideas will be implemented later.
 
-**End Goal**
+### End Goal
 
 The main goal is to finish this application and automate an important aspect of my hobbys. I also seek to expand upon 
 this project so that anyone is capable of downloading and using it. Another end goal is to possibly make it compatible 
