@@ -40,3 +40,24 @@ this project so that anyone is capable of downloading and using it. Another end 
 with various review sites, so that when a review isstored in this application, it will insert the same review 
 information to that website. This finalgoal is not necessary, but it would be a nice addition to only need to input my 
 review once and it would be placed across all my review sites.
+
+# Goals
+## Primary Goals
+- Create database to store reviews.
+- Provide the ability to store various medias to review.
+- Make a quick and easy method to store new reviews.
+- Allow the ability to search and access previous reviews.
+- Provide ability to edit previous reviews.
+- Provide ability to delete reviews.
+- Provide basic statistical analysis of reivew (i.e. number of reviews, number of review ratings)
+
+## Secondary Goals
+- Provide ability to add reviews to review sites automatically.
+- Allow searching based on actors.
+- Web scrape information on medias, i.e. actors or budget.
+- Create nice UI for desktop applications.
+- Create mobile app to access reviews and add reviews.
+- Create means to generate charts to send to people.
+- Possible movie/album recommender.
+- Provide ability to output a copy and pastable list by on certain conditions.
+- Provide advanced statistics about favorite medias.
