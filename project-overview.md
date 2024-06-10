@@ -42,7 +42,7 @@ information to that website. This finalgoal is not necessary, but it would be a 
 review once and it would be placed across all my review sites.
 
 # Goals
-## Primary Goals
+### Primary Goals
 - Create database to store reviews.
 - Provide the ability to store various medias to review.
 - Make a quick and easy method to store new reviews.
@@ -51,7 +51,7 @@ review once and it would be placed across all my review sites.
 - Provide ability to delete reviews.
 - Provide basic statistical analysis of reivew (i.e. number of reviews, number of review ratings)
 
-## Secondary Goals
+### Secondary Goals
 - Provide ability to add reviews to review sites automatically.
 - Allow searching based on actors.
 - Web scrape information on medias, i.e. actors or budget.
